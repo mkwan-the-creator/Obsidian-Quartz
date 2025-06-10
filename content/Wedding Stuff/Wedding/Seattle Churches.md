@@ -1,11 +1,14 @@
 ---
+title: 
+draft: "false"
+tags:
+  - churches
 created:
   - 2025-06-08 08:50
 modified:
+  - 2025-06-09 06:52 pm
   - 2025-06-09 04:48 pm
   - 2025-06-08 08:53 am
-tags:
-  - churches
 aliases: 
 links: 
 share_link: https://share.note.sx/9gujayio#GRTpspOmhforH3pOTRIhswbyPcGMLSv0YYQKe/VX7VY

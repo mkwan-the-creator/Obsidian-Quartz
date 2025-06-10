@@ -1,10 +1,13 @@
 ---
+title: 
+draft: "false"
+tags:
+  - churches
 created:
   - 2025-06-09 17:15
 modified:
+  - 2025-06-09 06:53 pm
   - 2025-06-09 05:20 pm
-tags:
-  - churches
 aliases: 
 links:
   - "[[Seattle Churches]]"
