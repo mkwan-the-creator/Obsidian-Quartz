@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my Obsidian Quartz site
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This site is for displaying information I've gathered on wedding details so far
